@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <menuitem id="biodata_root" name="Biodata" sequence="1"/>
+
+        <menuitem id="biodata_menu" name="Biodata" action="latihan_biodata_action" sequence="1" parent="biodata_root"/>
+    </data>
+</odoo>
